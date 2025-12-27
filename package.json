@@ -53,6 +53,7 @@
   "devDependencies": {
     "classnames": "^2.5.1",
     "eslint": "^8.57.1",
+    "path": "^0.12.7",
     "prettier": "^3.7.4",
     "vite-plugin-svgr": "^4.5.0"
   }
